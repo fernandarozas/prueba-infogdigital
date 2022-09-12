@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.5.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 680 440" style="enable-background:new 0 0 680 440;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;}
+	.st1{fill:none;}
+	.st2{font-family:'Helvetica';}
+	.st3{font-size:10px;}
+	.st4{fill:#7B7B7B;}
+	.st5{font-family:'Arial-BoldMT';}
+	.st6{font-size:12px;}
+	.st7{fill:none;stroke:#1F77B4;}
+</style>
+<path class="st0" d="M51,408.5v-6h535v6"/>
+<g transform="translate(66.875,0)">
+	<line class="st0" x1="51" y1="402.5" x2="51" y2="408.5"/>
+	<rect x="31.2" y="410" class="st1" width="46.9" height="13.4"/>
+	<text transform="matrix(1 0 0 1 31.1782 418.6)" class="st2 st3">Mendoza</text>
+</g>
+<g transform="translate(133.75,0)">
+	<line class="st0" x1="80.2" y1="403.2" x2="80.2" y2="409.2"/>
+	<text transform="matrix(1 0 0 1 62.2415 419.5986)" class="st2 st3">Malargüe</text>
+</g>
+<g transform="translate(267.5,0)">
+	<line class="st0" x1="57.9" y1="403.2" x2="57.9" y2="409.2"/>
+	<text transform="matrix(1 0 0 1 37.3266 420.4398)" class="st2 st3">Planchón</text>
+</g>
+<g transform="translate(401.25,0)">
+	<line class="st0" x1="44.3" y1="402.5" x2="44.3" y2="408.5"/>
+	<text transform="matrix(1 0 0 1 22.6155 419.8561)" class="st2 st3">Cordillera</text>
+</g>
+<text transform="matrix(1 0 0 1 523.3959 420.6263)" class="st2 st3">Glaciar de las lágrimas</text>
+<text transform="matrix(1 0 0 1 610.7939 405.8066)" class="st4 st5 st6">Locación</text>
+<path class="st0" d="M51,402.5v-370"/>
+<g transform="translate(0,370)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 16.9756 35.7)" class="st2 st3">8,000</text>
+</g>
+<g transform="translate(0,333)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 16.9756 35.7)" class="st2 st3">9,000</text>
+</g>
+<g transform="translate(0,296)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">10,000</text>
+</g>
+<g transform="translate(0,259)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 12.1514 35.7)" class="st2 st3">11,000</text>
+</g>
+<g transform="translate(0,222)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">12,000</text>
+</g>
+<g transform="translate(0,185)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">13,000</text>
+</g>
+<g transform="translate(0,148)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">14,000</text>
+</g>
+<g transform="translate(0,111.00000000000001)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">15,000</text>
+</g>
+<g transform="translate(0,73.99999999999999)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">16,000</text>
+</g>
+<g transform="translate(0,36.99999999999999)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">17,000</text>
+</g>
+<g transform="translate(0,0)">
+	<line class="st0" x1="51" y1="32.5" x2="45" y2="32.5"/>
+	<text transform="matrix(1 0 0 1 11.4141 35.7)" class="st2 st3">18,000</text>
+</g>
+<text transform="matrix(1 0 0 1 37 17.7949)" class="st4 st5 st6">Pies</text>
+<g id="viz">
+	<g>
+		<path class="st7" d="M51,32.5c66.9,0,66.9,0,133.8,0s66.9,360.7,133.8,360.7S385.5,273,452.4,273s66.9-7.8,133.8-7.8"/>
+	</g>
+</g>
+</svg>
