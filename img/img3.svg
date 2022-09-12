@@ -20,14 +20,14 @@
 	<text transform="matrix(1 0 0 1 33.5029 340.3862)" class="st2 st3">Mendoza</text>
 </g>
 <g transform="translate(133.75,0)">
-	<line class="st0" x1="112.5" y1="324.9" x2="112.5" y2="330.9"/>
-	<text transform="matrix(1 0 0 1 94.5056 341.3145)" class="st2 st3">Malargüe</text>
+	<line class="st0" x1="118.4" y1="325.3" x2="118.4" y2="331.3"/>
+	<text transform="matrix(1 0 0 1 100.3455 341.6856)" class="st2 st3">Malargüe</text>
 </g>
 <g transform="translate(401.25,0)">
-	<line class="st0" x1="-16" y1="323.8" x2="-16" y2="329.8"/>
-	<text transform="matrix(1 0 0 1 -37.7417 341.139)" class="st2 st3">Cordillera</text>
+	<line class="st0" x1="-5.7" y1="325.3" x2="-5.7" y2="331.3"/>
+	<text transform="matrix(1 0 0 1 -27.4156 342.6271)" class="st2 st3">Cordillera</text>
 </g>
-<text transform="matrix(1 0 0 1 525.7206 342.4125)" class="st2 st3">Glaciar de las lágrimas</text>
+<text transform="matrix(1 0 0 1 508.8446 342.2416)" class="st2 st3">Glaciar de las lágrimas</text>
 <text transform="matrix(1 0 0 1 613.1186 327.5928)" class="st4 st5 st6">Locación</text>
 <path class="st0" d="M53.3,324.3V115.5"/>
 <g transform="translate(0,370)">
